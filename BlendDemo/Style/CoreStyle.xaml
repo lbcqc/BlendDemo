@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:BlendDemo.Style" xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <FontFamily x:Key="CoreFontFamily">SimSun</FontFamily>
+    <System:Double x:Key="CoreFontSize">16</System:Double>
+    <FontFamily x:Key="TitleFontFamily">SimHei</FontFamily>
+    <System:Double x:Key="TitleFontSize">22</System:Double>
+    <SolidColorBrush x:Key="TitleBackground" Color="#FFDEDDDD"/>
+    <SolidColorBrush x:Key="SubtitleBackground" Color="#FF1795E6"/>
+    <SolidColorBrush x:Key="SubtitleBackground2" Color="#FF11CFDF"/>
+</ResourceDictionary>
